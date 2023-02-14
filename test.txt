@@ -1,7 +1,8 @@
 linme 1
-linem 2m
-line 3
+line 2b
+lineb 3
 line 4m
-linme 5
-line 6m
-line 7m
+line 5
+line 6
+line 7b
+line 8
